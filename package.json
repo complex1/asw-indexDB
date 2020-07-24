@@ -1,0 +1,19 @@
+{
+  "name": "asw-indexdb",
+  "version": "1.0.0",
+  "description": "> IndexedDB is a low-level API for client-side storage of significant amounts of structured data, including files/blobs. This API uses indexes to enable high performance searches of this data. While DOM Storage is useful for storing smaller amounts of data, it is less useful for storing larger amounts of structured data. IndexedDB provides a solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/complex1/asw-indexDB.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/complex1/asw-indexDB/issues"
+  },
+  "homepage": "https://github.com/complex1/asw-indexDB#readme"
+}
